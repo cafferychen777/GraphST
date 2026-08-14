@@ -19,7 +19,7 @@ from .utils import clustering, project_cell_to_spot
 try:
     __version__ = version("graphst-modern")
 except PackageNotFoundError:
-    __version__ = "1.1.1.post1"
+__version__ = "1.1.1.post2"
 
 __all__ = [
     "add_contrastive_label",
