@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "graphst-modern"
-version = "1.1.1.post2"
+version = "1.1.1.post3"
 description = "Maintained Python distribution of GraphST"
 readme = "README.md"
 requires-python = ">=3.11,<3.15"
