@@ -9,7 +9,7 @@ description = "Maintained Python distribution of GraphST"
 readme = "README.md"
 requires-python = ">=3.11,<3.15"
 license = "AGPL-3.0-only"
-license-files = ["LICENSE.md"]
+license-files = ["LICENSE.md", "NOTICE.md"]
 authors = [
     {name = "Yahui Long", email = "longyh@immunol.a-star.edu.sg"},
 ]
